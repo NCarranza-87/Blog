@@ -9,3 +9,4 @@ Application is a ASP.NET Core Web Application, that is a Model-View-Controllor (
 * C# Language - (Razor HTML)
 * ASP.Net Core 2.1 SDK - Web Application
 * Entity Framework Core (EF6) - Database Migrations
+* Nuget Package Manager
