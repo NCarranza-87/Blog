@@ -21,7 +21,7 @@ namespace Blog.Data.Repository
             _ctx.Posts.Add(post);
         }
 
-        public List<Post> GetAllPost(int id)
+        public List<Post> GetAllPost()
         {
             return _ctx.Posts.ToList();
         }
